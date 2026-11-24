@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./banner.png" alt="CodeYantra Technologies" width="100%">
+</p>
+
 <div align="center">
 
 # CodeYantra Technologies
