@@ -42,11 +42,32 @@ We are exploring new possibilities across:
 - Developer productivity tools
 - Digital payment technologies
 
+
 ## Open Source
 
-We believe open-source software plays an important role in advancing technology.
+At CodeYantra Technologies, we believe in building
+practical tools that empower the developer community.
 
-Our goal is to contribute practical, accessible, and responsibly maintained tools to the developer community.
+### Featured Project
+
+#### DevCaught
+
+A unified local development inbox for capturing
+test emails, synthetic SMS, and JSON webhooks.
+
+- Local SMTP email capture
+- SMS and webhook testing
+- Unified developer inbox
+- Local-first architecture
+- Open source under the MIT License
+
+[Explore Repository](https://github.com/CodeYantra-Technologies/devcaught) · [Report an Issue](https://github.com/CodeYantra-Technologies/devcaught/issues)
+
+---
+
+We welcome developers, contributors, and security
+researchers to collaborate with us and help build
+better technology.
 
 ## Our Engineering Principles
 
